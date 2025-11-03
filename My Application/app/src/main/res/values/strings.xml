@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="first_name_label">First Name</string>
+    <string name="first_name_hint">Enter first name</string> <string name="last_name_label">Last Name</string>
+    <string name="last_name_hint">Enter last name</string> <string name="gender_label">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="birthday_label">Birthday</string>
+    <string name="birthday_hint">Tap to select birthday</string> <string name="select_button">Select</string>
+    <string name="address_label">Address</string>
+    <string name="address_hint">Enter your address</string> <string name="email_label">Email</string>
+    <string name="email_hint">Enter your email</string> <string name="terms_checkbox">I agree to Terms of Use</string>
+    <string name="register_button">Register</string>
+</resources>
